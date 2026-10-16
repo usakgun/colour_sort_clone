@@ -1,5 +1,9 @@
 # Colour Sort - 2D Puzzle Game (Unity 6)
 
+<p align="center">
+  <img src="./game.gif" width="300" alt="Oynanış Demosu">
+</p>
+
 A production-ready water sort puzzle game developed in **Unity 6 (2D URP)** using clean architecture principles, design patterns, and procedural asset/level generation.
 
 ## Key Features & Architecture
